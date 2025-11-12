@@ -1,0 +1,2 @@
+# Predictive-Modelling-for-ClickThrough-Rate-Optimization-at-Connect-Sphere-Digital
+🧾 Project Description for GitHub Repository  Repository Name: CTR-Prediction-Model  Description: This project, titled "Predictive Modelling for Click-Through Rate Optimization at Connect Sphere Digital", focuses on building a machine learning model to predict whether a user will click on an online advertisement based on behavioral and data.
